@@ -53,7 +53,7 @@ class BTKQHT extends Component {
                             className='form-control'
                             id='hk1'
                             name='hk1'
-                            max={10}
+                            max={0}
                             min={0}
                             defaultValue={0}
                             required
